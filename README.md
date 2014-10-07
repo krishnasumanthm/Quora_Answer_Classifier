@@ -11,6 +11,6 @@ Simulation
 =======================
 The execute.py is the entry point of the simulation. The data sets are present in data folder. The extract.py extracts the features and labels for the train and test data from the input and output files. to run the simulation use command :-
 ```python
-$ python execute.py
+ python execute.py
 ```
 Note that the simulation requires the libraries scikit-learn and numpy.
